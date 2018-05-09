@@ -34,7 +34,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/BBVA/qed/log"
+	"github.com/bbva/qed/log"
 )
 
 func newClientCommand(ctx *Context) *cobra.Command {
