@@ -32,7 +32,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"qed/balloon/hashing"
+	"github.com/BBVA/qed/balloon/hashing"
 )
 
 // Constant Empty is a constant for empty leaves

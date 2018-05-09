@@ -30,7 +30,7 @@ package main
 import (
 	"os"
 
-	"qed/cli"
+	"github.com/BBVA/qed/cli"
 )
 
 func main() {

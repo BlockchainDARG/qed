@@ -30,7 +30,7 @@ package balloon
 import (
 	"fmt"
 
-	"qed/balloon/hashing"
+	"github.com/BBVA/qed/balloon/hashing"
 )
 
 type Verifiable interface {
